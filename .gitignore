@@ -1,0 +1,7 @@
+*.pyc
+*.db
+.idea/
+log.txt
+*.iml
+build/
+dist/
