@@ -17,7 +17,7 @@ An example ConversionEngine that transforms all worlds in the book to lower case
             return text.lower()
             
 
-All texts inside `<p>`, `<div>` etc tags are passed to `convert()` method. Text of one tag at a time.
+All texts inside `<p>`, `<div>` etc tags are passed to `convert()` method, Text of one tag at a time.
 
 
 
@@ -25,7 +25,9 @@ All texts inside `<p>`, `<div>` etc tags are passed to `convert()` method. Text 
 
 
 
-
+Requirements
+----
+BeautifulSoup 3
 
 
 
